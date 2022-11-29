@@ -3,7 +3,6 @@
 
 // 50 seconds
 #define UPDATE_INTERVAL 50*1000
-unsigned long timer;
 
 void setup() {
   DigiMouse.begin();
